@@ -1,0 +1,6 @@
+body{background-color: white;}
+.front_rabbit { width: 150px; height: auto; z-index: 1000; }
+.front_box { position: fixed; font-size: 20px; right: 35%; bottom: 10%; z-index: 1001; display:flex; }
+.front_title { align-self: flex-end; padding-bottom:25px; font-weight: lighter; font-size:13px;font-family: pilgi, "Segoe Script", "Lucida Handwriting", "Bradley Hand ITC", cursive; }
+
+    
